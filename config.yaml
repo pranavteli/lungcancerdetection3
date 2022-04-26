@@ -1,0 +1,28 @@
+title: Lung Cancer Classification
+description: Classify Lung Cancer based on Histopathological Images 
+about:
+
+
+  This is a Lung Cancer Classifier that classifies if the tumor is 
+  1. Lung benign tissue
+  2. Lung adenocarcinoma
+  3. Lung squamous cell carcinoma 
+  
+  using Deep Learning and was built with [fastai](docs.fast.ai)
+
+
+  This project was built by Amol and Pranav
+
+
+  The web application was based on computer vision techniques.
+
+
+code: https://github.com/pranavteli/lungcancerdetection3
+
+sampleImages:
+  - name: test1
+    url: https://i.postimg.cc/5NdrqHRM/lungaca1.jpg
+  - name: test2
+    url: https://i.postimg.cc/P5f221b0/lungn1.jpg
+  - name: test3
+    url: https://i.postimg.cc/5NdrqHRM/lungaca1.jpg
